@@ -1,4 +1,4 @@
-# runescape
+# Runescape addons
 Runescape Stars Notifier
 
 1. Open the dist folder
